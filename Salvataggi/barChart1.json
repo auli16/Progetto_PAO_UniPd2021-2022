@@ -1,0 +1,25 @@
+{
+    "dati": [
+        5,
+        8,
+        5,
+        5,
+        6,
+        9,
+        5,
+        3,
+        3
+    ],
+    "intestazioneOriz": [
+        "ok",
+        "si",
+        "o"
+    ],
+    "intestazioneVert": [
+        "ciao",
+        "ok",
+        "v"
+    ],
+    "nColonne": 3,
+    "nRighe": 3
+}
